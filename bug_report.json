@@ -1,1 +1,12 @@
-
+{
+ "Telegram nickname": "@o_s_log",
+ "Bug_id": 16,
+ "Title": "Widget doesn’t have white dash line on display",
+ "Severity": "major",
+ "Priority": "high",
+ "Environment": "Redmi Note 7 MIUI 12.5.1.0 android 10 QKQ1.190910.002",
+ "Precondition": "Phone desktop is empty",
+ "STR": ["Open application", "Click the add widget button", "Pay attention to the icons on the main screen"],
+ "AR": "Widget doesn’t have  white dash line on display",
+ "ER": "Widget has   white dash line on display"
+ }
